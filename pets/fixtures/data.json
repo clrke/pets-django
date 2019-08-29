@@ -1,0 +1,32 @@
+[
+  {
+    "model": "listings.pet",
+    "pk": 1,
+    "fields": {
+      "name": "Diether",
+      "species": "Dog",
+      "breed": "Shih-tzu",
+      "created_at": "2019-08-28T11:07:49.682Z"
+    }
+  },
+  {
+    "model": "listings.pet",
+    "pk": 2,
+    "fields": {
+      "name": "Errolito",
+      "species": "Cat",
+      "breed": "Persian",
+      "created_at": "2019-08-28T11:07:49.682Z"
+    }
+  },
+  {
+    "model": "listings.pet",
+    "pk": 3,
+    "fields": {
+      "name": "Lester",
+      "species": "Hamster",
+      "breed": "X",
+      "created_at": "2019-08-28T11:07:49.682Z"
+    }
+  }
+]
